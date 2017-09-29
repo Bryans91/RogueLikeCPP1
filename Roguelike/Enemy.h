@@ -1,8 +1,10 @@
 #pragma once
-class Enemy
+
+#include "Unit.h"
+
+class Enemy: public Unit
 {
 public:
 	Enemy();
 	~Enemy();
 };
-

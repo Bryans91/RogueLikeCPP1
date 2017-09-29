@@ -3,6 +3,8 @@ class Game
 {
 public:
 	Game();
+	void startGame();
+
 	~Game();
 };
 
