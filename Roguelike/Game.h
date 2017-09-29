@@ -3,7 +3,7 @@ class Game
 {
 public:
 	Game();
-	void startGame();
+	int StartGame();
 
 	~Game();
 };
