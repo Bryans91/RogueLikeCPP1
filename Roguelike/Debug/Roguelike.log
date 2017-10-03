@@ -1,3 +1,10 @@
 ﻿  Main.cpp
+  Game.cpp
+  Generating Code...
+  Compiling...
+  Enemy.cpp
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  Room.cpp
   Roguelike.vcxproj -> C:\Users\bryan\Documents\Visual Studio 2015\Projects\RogueLikeCPP1\Debug\Roguelike.exe
   Roguelike.vcxproj -> C:\Users\bryan\Documents\Visual Studio 2015\Projects\RogueLikeCPP1\Debug\Roguelike.pdb (Full PDB)
